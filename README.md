@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Profile.jpg" alt="Banner" width = "30% ">
+  <img src="Banner.jpg" alt="Banner" width = "30% ">
 </p>
 <h1 align="center">Tharun Kumar Veeradasari</h1>
 <h3 align="center">
