@@ -17,6 +17,57 @@ Learn. Build. Share.
 * 🚀 Passionate about building practical projects and solving real-world problems
 * 🌱 Continuously exploring modern technologies, open-source collaboration, and software engineering best practices
 
+## 🚀 Featured Project — Blockchain-Inspired KYC Management System for Banking
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ROLE-TEAM%20LEADER-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TEAM-3%20MEMBERS-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/TECH-JAVA-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=for-the-badge">
+
+</p>
+
+A Java-based web application designed to streamline KYC verification workflows through role-based access control, secure record management, and administrative approval processes.
+
+### 📋 Project Overview
+
+| Category     | Details                          |
+| ------------ | -------------------------------- |
+| Domain       | Banking & KYC Management         |
+| Technologies | Java, JSP, JDBC, MySQL, HTML/CSS |
+| Server       | Apache Tomcat                    |
+| Role         | Team Leader                      |
+| Team Size    | 3 Members                        |
+| Status       | Completed                        |
+
+### ✨ Key Features
+
+| Feature            | Description                                  |
+| ------------------ | -------------------------------------------- |
+| User Registration  | Customer account creation and authentication |
+| KYC Submission     | Secure document submission workflow          |
+| Admin Verification | KYC approval and authorization process       |
+| Dataset Management | Service provider record management           |
+| Role-Based Access  | Controlled visibility and permissions        |
+| Record Tracking    | Audit-style monitoring and management        |
+
+### 🎯 Project Goal
+
+To demonstrate a blockchain-inspired approach to KYC management by improving workflow transparency, secure record handling, and verification processes within banking environments.
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
