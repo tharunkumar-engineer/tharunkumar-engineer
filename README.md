@@ -91,17 +91,12 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunkumar-engineer&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunkumar-engineer&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/tharun-kumar-veeradasari">
+<a href="linkedin.com/in/tharun-kumar-veeradasari">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -114,6 +109,7 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 </a>
 
 </p>
+
 
 <!--
 **tharunkumar-engineer/tharunkumar-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
