@@ -8,7 +8,7 @@ Artificial Intelligence • Machine Learning • Data Science • Python • Jav
 <p align="center">
 Learn. Build. Share.
 </p>
-## 👨‍💻 About Me
+##👨‍💻About Me
 
 🎓 B.Tech Graduate from Andhra Pradesh, India
 
