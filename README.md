@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Profile.jpg" alt="Banner" width = "30% ">
 </p>
-<h1 align="center">Tharun Kumar</h1>
+<h1 align="center">Tharun Kumar Veeradasari</h1>
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Data Science • Python • Java
 </h3>
