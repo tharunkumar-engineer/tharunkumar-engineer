@@ -8,6 +8,18 @@ Artificial Intelligence • Machine Learning • Data Science • Python • Jav
 <p align="center">
 Learn. Build. Share.
 </p>
+## 👨‍💻 About Me
+
+🎓 B.Tech Graduate from Andhra Pradesh, India
+
+🏦 Contributed to the development of a Blockchain-Based KYC Model for Credit Allocation in Banking
+
+🔐 Interested in secure digital systems, blockchain applications, and technology-driven innovation
+
+🚀 Enjoy building practical projects and turning ideas into real-world solutions
+
+🌱 Continuously exploring modern technologies, open-source collaboration, and software engineering best practices
+
 <!--
 **tharunkumar-engineer/tharunkumar-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
