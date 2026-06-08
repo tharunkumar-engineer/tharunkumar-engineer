@@ -91,6 +91,13 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## 🎯 Current Focus
+
+- Building practical software projects
+- Exploring Artificial Intelligence and Data Science
+- Strengthening Python and Java development skills
+- Learning modern software engineering practices
+
 
 ## 📫 Connect With Me
 
@@ -109,6 +116,7 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 </a>
 
 </p>
+
 
 
 <!--
