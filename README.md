@@ -61,7 +61,7 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 
 <p align="center">
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/tharunkumar-engineer/Blockchain-Based-KYC-System">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github">
 </a>
 
