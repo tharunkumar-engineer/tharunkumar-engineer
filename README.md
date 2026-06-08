@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://1drv.ms/i/c/49963bf505fd115b/IQDFSb53XeiUQZZ_5BDM_Kb9AR_PQD9wWx1lH9uNZZ-i5x4?e=Vvddye" alt="Banner">
+</p>
 
 <!--
 **tharunkumar-engineer/tharunkumar-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
