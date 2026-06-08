@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://photos.app.goo.gl/FGshfXqaqmELa83f7" alt="Banner">
+  <img src="Profile.jpg" alt="Banner">
 </p>
 
 <!--
