@@ -16,6 +16,22 @@ Learn. Build. Share.
 * 🚀 Passionate about building practical projects and solving real-world problems
 * 🌱 Continuously exploring modern technologies, open-source collaboration, and software engineering best practices
 
+## 🛠️ Tech Stack
+### Languages
+* Python
+* Java
+### Artificial Intelligence & Data Science
+* Machine Learning
+* Data Analysis
+### Technologies
+* Blockchain
+* Automation
+### Tools
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
 
 <!--
 **tharunkumar-engineer/tharunkumar-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
