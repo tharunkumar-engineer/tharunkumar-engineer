@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Tharun Kumar Veeradasari</h1>
 <h3 align="center">
-Artificial Intelligence • Machine Learning • Data Science • Python • Java
+AI & Data Science Enthusiast | Python & Java Developer | Founder of TharunVerse
 </h3>
 <p align="center">
 Learn. Build. Share.
