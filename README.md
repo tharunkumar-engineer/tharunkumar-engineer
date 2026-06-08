@@ -9,7 +9,7 @@ Artificial Intelligence • Machine Learning • Data Science • Python • Jav
 Learn. Build. Share.
 </p>
 
-**👨‍💻About Me**
+### 👨‍💻About Me
 * 🎓 B.Tech Graduate from Andhra Pradesh, India
 * 🏦 Contributed to the development of a **Blockchain-Based KYC Model for Credit Allocation in Banking**
 * 🔐 Interested in secure digital systems, blockchain applications, and technology-driven innovation
