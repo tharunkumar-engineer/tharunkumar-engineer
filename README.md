@@ -18,20 +18,27 @@ Learn. Build. Share.
 * 🌱 Continuously exploring modern technologies, open-source collaboration, and software engineering best practices
 
 ## 🛠️ Tech Stack
+
 ### Languages
-* Python
-* Java
-### Artificial Intelligence & Data Science
-* Machine Learning
-* Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge)
+
 ### Technologies
-* Blockchain
-* Automation
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+
 ### Tools
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 <!--
