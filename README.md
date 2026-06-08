@@ -6,7 +6,7 @@
 Artificial Intelligence • Machine Learning • Data Science • Python • Java
 </h3>
 <p align="center">
-Passionate about building intelligent solutions, solving real-world problems, and sharing knowledge through TharunVerse.
+Learn. Build. Share.
 </p>
 <!--
 **tharunkumar-engineer/tharunkumar-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
