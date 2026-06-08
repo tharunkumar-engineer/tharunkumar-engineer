@@ -103,9 +103,6 @@ To demonstrate a blockchain-inspired approach to KYC management by improving wor
 
 <p align="center">
 
-<a href="www.linkedin.com/in/tharun-kumar-veeradasari">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://youtube.com/@tharunverseofficial?si=KMpKovro59Cb0onR">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
